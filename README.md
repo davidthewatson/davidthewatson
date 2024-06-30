@@ -1,6 +1,6 @@
 ## I'm Dave - a software developer in Pittsburgh.
 
-Computers were the third and mostly final stop in my STEM journey assmbling small pieces, loosely joined from a public school education in the United States.
+Computers were the third and mostly final stop in my STEM journey assembling small pieces, loosely joined from a public school education in the United States.
 
 That education arose from the fact that my mom managed more than one medical practice and my dad managed a chemistry lab which meant that by the time I got to those subjects in high school, I'd already worn the STEM T-shirt proudly in a basement lab that looked like the remnants of an old Fisher Scientific catalog.
 
