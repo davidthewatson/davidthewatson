@@ -6,7 +6,7 @@ I loved software when it was two guys in a garage or small powers of two in an o
 
 Now it's me and an AI code pair on a literate programming unicycle, human-computer sensemaking, nimble lab experiments.
 
-You may have spotted me among my neurotribe at:
+You may have spotted me at:
 
 * CA, CAT, or CMU from Peoria to Pittsburgh
 * Platinum from Boston to Seattle
