@@ -7,7 +7,7 @@ Now it's me and an AI code pair on a literate programming unicycle, human-comput
 You may have spotted me at:
 
 * CAT from Peoria to Pittsburgh
-* CMU all over Campus from Newell-Simon to Gates, Tepper to Wean, Heinz to Mehrabian.
-* MAYA Design before BCG
+* Carnegie Mellon (Carnegie Tech before Mellon)
+* MAYA Design (before Boston Consulting Group)
 * [Cobind Linux](https://rubenerd.com/p1191/)
 * [Catapult PGH](http://catapultpgh.org/) (where some of my best friends worked [alone together](https://www.sherryturkle.com/alone-together))
