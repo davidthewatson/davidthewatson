@@ -7,7 +7,7 @@ Now it's me and an AI code pair on a literate programming unicycle, human-comput
 You may have spotted me at:
 
 * CAT from Peoria to Pittsburgh
-* Carnegie Mellon (Carnegie Tech before Mellon)
+* [Carnegie Mellon](https://en.wikipedia.org/wiki/Carnegie_Mellon_University#:~:text=three%20programs%20ranked%20first%3A%20Artificial%20Intelligence%2C%20Programming%20Languages%2C%20and%20Information%20and%20Technology%20Management.%20In%20particular%2C%20the%20CMU%20School%20of%20Computer%20Science%20has%20been%20consistently%20ranked%20the%20best%20in%20the%20nation%2C%20tied%20with%20MIT%2C%20Stanford%2C%20and%20UC%20Berkeley.%20%5B59%5D) (Carnegie Tech before Mellon)
 * MAYA Design (before Boston Consulting Group)
 * [Cobind Linux](https://rubenerd.com/p1191/)
 * [Catapult PGH](http://catapultpgh.org/) (where some of my best friends worked [alone together](https://www.sherryturkle.com/alone-together))
