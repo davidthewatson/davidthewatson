@@ -2,7 +2,7 @@
 
 I loved software when it was two guys in a garage or small powers of two in an old, urban warehouse.
 
-Now it's me and an AI code pair on a literate programming unicycle, human-computer sensemaking, nimble lab experiments, a stunt monkey, lizard brain, furiously running or riding on a bicycle across town.
+Now it's me and an AI code pair on a literate programming unicycle, human-computer sensemaking, nimble lab experiments, a bicameral, stunt monkey, lizard brain, furiously running or riding a bicycle cross-town.
 
 You may have spotted me at:
 
