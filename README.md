@@ -8,9 +8,9 @@ You may have spotted me like Sasquatch:
   * [Catapult PGH](http://catapultpgh.org/) (Among the first, not the last, where friends worked [alone together](https://www.sherryturkle.com/alone-together))
   * [Caterpillar](https://www.cmu.edu/regional-impact/assets/docs/nrec-report.pdf) from Peoria to Pittsburgh (CAT)
   * [MAYA Design](https://www.gbbn.com/work/maya-design-headquarters/) (before Boston Consulting Group (BCG)
-  * [Cobind Linux](https://rubenerd.com/p1191/) (2 guys in a garage, one survivor, [one escapee](https://technical.ly/startups/google-pittsburgh-investment/), one exile, a lost bit scaling 2-4)
+  * [Cobind Linux](https://rubenerd.com/p1191/) (2 guys in a garage: one survivor, [one escapee](https://technical.ly/startups/google-pittsburgh-investment/), [one exile](https://www.craigmaier.com/about) a human bit lost scaling the wormole from 2-4)
 * Music
-  * [Duquesne Music School](https://duq.edu/academics/colleges-and-schools/music/index.php)
+  * [Duquesne Music School](https://duq.edu/academics/colleges-and-schools/music/index.php) - Dropout
   * [Abbey Brass](https://www.timesonline.com/story/news/local/2018/07/06/thomas-challis-founder-abbey-brass/11582204007/)) - Tympanist
-  * [Mars Band](https://marsband.com/) - Drum Instructor and Private Percussion Teacher: https://marsband.com/category/indoor-percussion/
+  * [Mars Band](https://marsband.com/) - [Drum Instructor and Private Percussion Teacher](https://marsband.com/category/indoor-percussion/)
   
