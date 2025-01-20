@@ -1,6 +1,6 @@
 # I'm Dave. 
 
-## I'm working on:
+## What?
 
 * [Cobind Desktop](https://rubenerd.com/p1191/) 2.0 by [extending Cosmic Desktop](https://system76.com/cosmic/).
 * Making [doc](https://github.com/davidthewatson/doc) on [bun](https://bun.sh/)
@@ -13,3 +13,12 @@
 * Bun, rust, and zig: like-minded programming languages are our polyglot future
 * Human-computer education with oversight from cradle to grave, not mediated social ~~experience~~ 
 * Human-computer sensemaking from peek and poke to AI: [Peter Pirolli](https://www.efsa.europa.eu/sites/default/files/event/180918-conference/presentations/20-3_07_Pirolli.pdf)
+
+## When?
+* Imaginary: ~Y2K
+* Symbolic: Last five years
+* Real: 2024-2025
+
+## Where?
+
+* Pittsburgh, PA USA
