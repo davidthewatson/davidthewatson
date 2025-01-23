@@ -10,8 +10,6 @@
 
 * Because [blocks world is legit CS](https://en.wikipedia.org/wiki/Blocks_world)
 * So are [voxels](https://en.wikipedia.org/wiki/Voxel) from medical imaging to minecraft
-* Bun, rust, and zig: like-minded programming languages are our polyglot future
-* Human-computer education with oversight from cradle to grave, not mediated social ~~experience~~ 
 * Human-computer sensemaking from peek and poke to AI: [Peter Pirolli](https://www.efsa.europa.eu/sites/default/files/event/180918-conference/presentations/20-3_07_Pirolli.pdf)
 
 ## When?
