@@ -1,16 +1,16 @@
-# I'm Dave. 
+# I'm Neil. 
 
 ## What?
 
-* [Cobind Desktop](https://rubenerd.com/p1191/) 2.0 by [extending Cosmic Desktop](https://system76.com/cosmic/).
-* Making [doc](https://github.com/davidthewatson/doc) on [bun](https://bun.sh/)
-* Working on Minecraft Bedrock extensions
+* Baking Minecraft Bedrock extensions
+* Booting [Cobind Desktop](https://rubenerd.com/p1191/) 2.0 by [extending Cosmic Desktop](https://system76.com/cosmic/).
+* Builing [doc](https://github.com/davidthewatson/doc) on [bun](https://bun.sh/)
 
 ## Why?
 
-* Because [blocks world is legit CS](https://en.wikipedia.org/wiki/Blocks_world)
-* So are [voxels](https://en.wikipedia.org/wiki/Voxel) from medical imaging to minecraft
-* Human-computer sensemaking from peek and poke to AI: [Peter Pirolli](https://www.efsa.europa.eu/sites/default/files/event/180918-conference/presentations/20-3_07_Pirolli.pdf)
+* [learning](https://en.wikipedia.org/wiki/Blocks_world) is fun
+* [voxels](https://en.wikipedia.org/wiki/Voxel) are fun from medical imaging to minecraft
+* [Human-computer sensemaking](https://www.efsa.europa.eu/sites/default/files/event/180918-conference/presentations/20-3_07_Pirolli.pdf) is fun from peek and poke to AI 
 
 ## When?
 * Imaginary: ~Y2K
