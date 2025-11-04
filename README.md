@@ -1,4 +1,4 @@
-# I'm Neil. 
+# I'm Dave; some people call me Watson. My mother called me David Neil. 
 
 ## What?
 
@@ -8,7 +8,7 @@
 
 ## Why?
 
-* Because Baking, Booting, and Building are fun
+* Because Baking, Booting, and Building are fun, like bun!
 
 ## When?
 * Imaginary: ~Y2K
