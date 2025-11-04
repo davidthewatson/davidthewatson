@@ -1,4 +1,4 @@
-# I'm Dave; if you think Watson is common, consider than my grandfather was David Smith. My mother called me David Neil. 
+# I'm Dave; Dave Watson. My mother called me David Neil. 
 
 ## What?
 
